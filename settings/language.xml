@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <language version="7.0.0" htmlParse="true">
+;
+
+        <!-- MULTI-PURPOSE MODALS -->
+        <item id="stepCompleteMessage">You have completed this step. Please click on the {{{b}}} blue &quot;Continue&quot; button {{{/b}}} at the bottom right-side of your screen to go to the next step.</item>
+        <item id="logInFirst">Please complete the log-in process first.</item>
+
+        <!-- FOOTER -->
+        <item id="fontSizeText">Text Size</item>
+        <item id="cardHeightText">Card Height</item>
+        <item id="btnHelp">Help</item>
+        <item id="btnHelpLanding">Help</item>
+        <item id="btnHelpConsent">Contact Information</item>
+
+
+        <item id="btnNext">Continue</item>
+        <item id="btnNextLanding">Start</item>
+        <item id="btnNextConsent">Agree</item>
+
+        <!-- LANDING SCREEN -->
+        <item id="landingHead">University Research Project</item>
+        <item id="welcomeText">{{{h2}}}Short Term Rental Accomodation Project{{{/h2}}}{{{br/}}}{{{br/}}}{{{p}}}Thank you for helping with this research project. You can watch this short video which shows the whole process to follow.{{{/p}}}{{{br/}}}{{{br/}}}{{{br/}}}
+    {{{center}}}{{{iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lMy4ARVEcCI?rel=0&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen}}}{{{/iframe}}}{{{/center}}}</item>
+
+        <!-- LANDING -> ACCESS CONTROL - only displayed if access is restricted -->
+        <item id="accessCodeText">Access Code</item>
+        <item id="accessInputText"></item>
+        <item id="loginSubmitButtonText"></item>
+        <item id="loginPartIdText"></item>
+        <item id="accessCodeWarning"></item>
+        <item id="partIdWarning"></item>
+        <item id="loginHeaderText"></item>
+        <item id="loginWelcomeText"></item>
+        <item id="landingHelpModalHead">Welcome!</item>
+        <item id="landingHelpModalText">Thank you for agreeing to participate in this research project. Please click the &quot;{{{b}}}Continue{{{/b}}}&quot; button at the bottom right side of the screen to go to the next step.</item>
+
+        <!-- LOCAL DATA COLLECTION -->  
+        <item id="localHeader">Offline Q-sort Control Panel</item>
+        <item id="partIdText">Participant Name</item>
+        <item id="usercodeText">Usercode</item>
+        <item id="localStartButtonText">Start Q-sort</item>
+        <item id="localDeleteButtonText">Delete</item>
+        <item id="localDownloadButtonText">Save Q-sort Data to Disk</item>
+        <item id="storedQsortsHeaderText">Stored Q-sorts</item>
+        <item id="localDeleteModalHead">Delete Data Stored in Browser?</item>
+        <item id="localDeleteModalText">This will delete the particpant Q-sort data that is currently stored in the browser. You would usually only do this when you are starting a new project.{{{br/}}}{{{br/}}}{{{b}}}CAUTION - Deleted data cannot be recovered.{{{/b}}} {{{br/}}}{{{br/}}} {{{center}}}{{{/center}}}</item>
+        <item id="localParticipantsText">Participants</item>
+        <item id="localSaveBeforeDeleteModalHeader">Delete Disabled</item>
+        <item id="localSaveBeforeDeleteModalText">Save Q sort Data to Disk before deleting.</item>
+        <item id="localSaveDataButton">Save Participant Data to Browser Memory</item>
+        <item id="localSubmitSuccessModalHeader">Success</item>
+        <item id="localSubmitSuccessModalText">Participant Q sort data have been succesfully saved to browser memory</item>
+        <item id="returnToLocalPanelButtonText">Return to Control Panel</item>
+
+        <!-- CONSENT: get permission from participants -->
+        <item id="consentTitleBarText">Research Consent</item>
+        <item id="consentText">{{{b}}}Research Consent{{{/b}}}{{{br}}}{{{br}}}
+
+You have been invited to participate in this research on short-term rental accommodation. You should have already received an explanatory statement that provides full details about the project. The following is a brief summary of the project.{{{br}}}{{{br}}}
+
+{{{b}}}Project title:{{{/b}}} Short Term Rental Accommodation Research Project{{{br}}}{{{br}}}
+
+Short-term rental accommodation (STRA) refers to lodging options that are rented out for relatively brief periods, typically ranging from a few nights to a few weeks, as opposed to long-term leases or traditional hotel stays. This research involves an engaging online activity called Q-sorting, designed to map out various viewpoints about STRA. As a participant, you&apos;ll sort a range of statements regarding STRA based on your agreement or disagreement with them. Throughout the process, our researchers will engage with you to discuss your decisions and perspectives.{{{br}}}{{{br}}}
+
+{{{b}}}Source of funding:{{{/b}}} This project is funded by the Australian Housing and Urban Research Institute (AHURI).{{{br}}}{{{br}}}
+
+{{{b}}}Consenting to participate in the project and withdrawing from the research:{{{/b}}} You have the right to withdraw from further participation at any stage.{{{br}}}{{{br}}}
+
+{{{b}}}Possible benefits and risks to participants:{{{/b}}} Participation in the activity is expected to take up to one hour, and as a token of our appreciation for your time, you will be reimbursed $100. The activity can be completed at a convenient time for you. The Q-sort activity and accompanying discussion will be recorded and transcribed. This research will provide information about STRA in Australia that may assist policymakers in making decisions about STRA regulations. There is little risk associated with participating in this study.{{{br}}}{{{br}}}
+
+{{{b}}}Confidentiality:{{{/b}}} The results of this research will be published as an AHURI Research Report and may also be shared in academic journal articles, at conferences or workshops, or in formats for a non-academic audience, e.g. blog posts. All results shared publicly will use only de-identified data. Your personal information will be provided to Monash Finance to process reimbursements and may be used for audit purposes.{{{br}}}{{{br}}}
+
+{{{b}}}Storage of data:{{{/b}}} Members of the research team are located at Monash University and the University of Adelaide. Data will be stored for five years on secure Monash University servers accessible only to members of the research team. Data will be destroyed after five years.{{{br}}}{{{br}}}
+
+{{{b}}}Consent:{{{/b}}} By clicking on the &quot;Agree&quot; button at the bottom of this page, you are indicating that you have read and understood the information provided, and that you agree to participate in this study.{{{br}}}{{{br}}}
+
+If you would like further information regarding any aspect of this project, you are encouraged to contact the Chief Investigator via the phone number or email address listed below.{{{br}}}{{{br}}}
+
+{{{b}}}Dr Michaela Lang{{{/b}}}{{{br}}}
+Monash Sustainable Development Institute, Monash University{{{br}}}
+Phone: 0422 147 466{{{br}}}
+Email: michaela.lang@monash.edu{{{br}}}
+</item>
+        <item id="consentHelpModalHead"></item>
+        <item id="consentHelpModalText">Dr Michaela Lang{{{/b}}}{{{br}}}
+Monash Sustainable Development Institute, Monash University{{{br}}}
+Phone: 0422 147 466{{{br}}}
+Email: michaela.lang@monash.edu{{{br}}}</item>
+
+
+        <!-- PRESORT: rough sorting into three piles -->
+        <item id="titleBarText">Preliminary Sorting</item>
+        <item id="presortAgreement">Agree (3)</item>
+        <item id="presortStatements">Statements</item>
+        <item id="presortNeutral">No Strong Feelings (2)</item>
+        <item id="presortDisagreement">Disagree (1)</item>
+        <item id="presortModalHead">Step 1 of 4</item>
+          <item id="presortModalText">Read the following statements carefully and split them up into three piles: a pile for statements you tend to disagree with, a pile for cards you tend to agree with, and a pile for the rest. Changes can be made later.{{{br/}}}{{{br/}}}If you want to read this instruction a second time, click the help-button at the bottom left corner.</item>
+        <item id="presortPreventNavModalHead">Navigation Disabled</item>
+        <item id="presortPreventNavModalText">Please finish the preliminary sorting before going to the next step.</item>
+        <item id="presortFinishedModalHead">Preliminary Sorting Complete</item>
+        <item id="presortFinishedModalText">You have completed this step. Please click the &quot;Continue&quot; button in the bottom right side of the page to go to the next step.</item>
+        <item id="presortOnPageInstructions">{{{div style=&quot;font-size: 24px&quot;}}}Click and drag on the cards  or press the &quot;1&quot;, &quot;2&quot;, or &quot;3&quot; keys to sort the statements.{{{/div}}}</item>
+        <item id="presortImageSortInstructions">To enlarge an image, hover your mouse pointer over it and double-click. {{{br/}}}{{{br/}}} To compare images, {{{u}}}press and hold{{{/u}}} the {{{b}}}{{{i}}}Shift{{{/i}}}{{{/b}}} key on your keyboard and then double-click on TWO images with your mouse.</item>
+
+        <!-- SORT: sorting (leave blank to skip popup) -->
+        <item id="sortHelpModalHead">Step 2 of 4</item>
+        <item id="sortHelpModalText">In this step, please click and drag the statement cards to the appropriate column based on your perspective and the researcher&apos;s instructions at the top of the page. The range is from -5 (disagree the most) to +5 (agree the most).</item>
+        <item id="sortAgreement">Most Agree</item>
+        <item id="sortDisagreement">Most Disagree</item>
+        <item id="condOfInst">How much do the following influence your decision about leasing in the short-term rental market(now or in the past)?</item>
+        <item id="sortingCompleteModalHead">Sorting Complete</item>
+        <item id="sortingCompleteModalText">You have completed the initial sorting. Please take a moment to confirm your placement of the cards.{{{br/}}}{{{br/}}}When you are satisfied with their placement, please click on the {{{b}}}blue &quot;Continue&quot; button{{{/b}}} at the bottom right-side of your screen to go to the next step.</item>
+        <item id="sortPreventNavModalHead">Navigation Disabled</item>
+        <item id="sortPreventNavModalText">Please finish the grid sorting before going to the next step.</item>
+        <item id="sortOverloadedColumnModalHead">Navigation Disabled</item>
+        <item id="sortOverloadedColumnModalText">One of the columns has too many cards (it will be outlined in orange and have a dashed border). Please adjust the placement of the cards so that all columns have the correct number.</item>
+
+        <!-- POSTSORT: comments - only displayed if showStep3 = true -->
+        <item id="postsortHeader">Post-Sort Comments</item>
+        <item id="postsortInstructions">{{{h3}}}Please describe your thoughts about these statements in more detail.{{{/h3}}}</item>
+        <item id="placeholder">Click here to add comment</item>
+        <item id="postsortAgreement">Placed on Agree</item>
+        <item id="postsortDisagreement">Placed on Disagree</item>
+        <item id="postsortModalHead">Step 3 of 4</item>
+        <item id="postsortModalText">You can use the buttons at the bottom of the page to change the font size or card height.</item>
+        <item id="postsortPreventNavModalHead">Navigation Disabled</item>
+        <item id="postsortPreventNavModalText">Please add comments to all of the cards before going to the next step.</item>
+        <item id="postsortBackButtonText">Go Back</item>
+
+        <!-- SURVEY: Additional questions, only displayed if showStep4 == true -->
+        <item id="surveyHeader">Post-Sort Questionnaire</item>
+        <item id="surveyModalHead">Step 4 of 4</item>
+        <item id="surveyModalText">Finally, please answer the following questions regarding your background.</item>
+        <item id="surveyPreventNavModalHead">Navigation Disabled</item>
+        <item id="surveyPreventNavModalText">Please answer the required questions (outlined in yellow) before going to the next step.</item>
+       
+        <!-- SUBMIT -->
+        <item id="btnTransfer">Submit Data</item>
+        <item id="transferHead">Final Step</item>
+        <item id="transferTextAbove">{{{h1}}}Ready to Submit{{{/h1}}}{{{br/}}}{{{br/}}} {{{h2}}}Please click the &quot;Submit Data&quot; button to transmit your results.{{{/h2}}}</item>
+        <item id="transferTextBelow">If the submission confirmation message does not appear, {{{br/}}}please wait a few minutes and click the submit button again.</item>
+        <item id="transferOkModalHeader">Success - The data have been sent to the server.</item>   
+        <item id="transferOkModalText">Thank you for using EQ Web Sort!{{{br/}}}{{{br/}}}You can now close your browser tab.</item>
+        <item id="transferFailModalHeader">Connection to server failed</item>   
+        <item id="transferFailModalText">Please try again in a few moments.</item>   
+        <item id="fallbackMessage">Data transmission has failed. Please download the results and email them as an attachment to michaela.lang@monash.edu.  Thank you!</item>   
+        <item id="btnDownload">Download</item>   
+        <item id="goodbyeMessage">{{{div}}}Thank You for your participation!{{{/div}}} {{{br/}}}{{{div}}}You can now close the browser tab{{{/div}}}</item>   
+
+        <!-- EMAIL -->
+        <item id="btnTransferEmail">undefined</item>
+        <item id="clipboardResults">undefined</item>  
+        <item id="clipboardEmail">undefined</item>  
+        <item id="copiedText">undefined</item>  
+        <item id="copyTextError">undefined</item>  
+        <item id="defaultEmailClientFail">undefined</item>   
+        <item id="emailMessage1">undefined</item>
+
+        <!-- LINKING -->
+        <item id="linkedProjectFallbackMessage">undefined</item>   
+         <item id="linkedProjectBtnMessage">undefined</item>   
+
+
+   </language>
